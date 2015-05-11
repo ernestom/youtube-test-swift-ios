@@ -14,6 +14,7 @@
 		9430EAF71AFBED7500A72D93 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9430EAF51AFBED7500A72D93 /* Main.storyboard */; };
 		9430EAF91AFBED7500A72D93 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9430EAF81AFBED7500A72D93 /* Images.xcassets */; };
 		9430EAFC1AFBED7500A72D93 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9430EAFA1AFBED7500A72D93 /* LaunchScreen.xib */; };
+		943659B41B012A3B005F6303 /* VideosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 943659B31B012A3B005F6303 /* VideosViewController.swift */; };
 		94F80A781AFD1C230075168B /* YoutubeAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F80A771AFD1C230075168B /* YoutubeAPI.swift */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		9430EAF61AFBED7500A72D93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9430EAF81AFBED7500A72D93 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		9430EAFB1AFBED7500A72D93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		943659B31B012A3B005F6303 /* VideosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideosViewController.swift; sourceTree = "<group>"; };
 		949997771AFE9A8A00B36627 /* ObjCBridge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ObjCBridge.h; sourceTree = "<group>"; };
 		94F80A771AFD1C230075168B /* YoutubeAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YoutubeAPI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -79,6 +81,7 @@
 				9430EAEF1AFBED7500A72D93 /* AppDelegate.swift */,
 				9430EAF11AFBED7500A72D93 /* MasterViewController.swift */,
 				9430EAF31AFBED7500A72D93 /* DetailViewController.swift */,
+				943659B31B012A3B005F6303 /* VideosViewController.swift */,
 				949997771AFE9A8A00B36627 /* ObjCBridge.h */,
 				9430EAF51AFBED7500A72D93 /* Main.storyboard */,
 				9430EAF81AFBED7500A72D93 /* Images.xcassets */,
@@ -210,6 +213,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				943659B41B012A3B005F6303 /* VideosViewController.swift in Sources */,
 				9430EAF41AFBED7500A72D93 /* DetailViewController.swift in Sources */,
 				9430EAF21AFBED7500A72D93 /* MasterViewController.swift in Sources */,
 				94F80A781AFD1C230075168B /* YoutubeAPI.swift in Sources */,

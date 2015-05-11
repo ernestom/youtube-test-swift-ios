@@ -51,5 +51,53 @@
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaYoutubeAPI/VideosViewController.swift"
+            timestampString = "453061310.465084"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "VideosViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaYoutubeAPI.VideosViewController.init (PruebaYoutubeAPI.VideosViewController.Type)(collectionViewLayout : ObjectiveC.UICollectionViewLayout) -&gt; PruebaYoutubeAPI.VideosViewController"
+                  moduleName = "PruebaYoutubeAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ernesto/Code/PruebaYoutubeAPI/PruebaYoutubeAPI/VideosViewController.swift"
+                  timestampString = "453067162.059903"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaYoutubeAPI.VideosViewController.init (PruebaYoutubeAPI.VideosViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; PruebaYoutubeAPI.VideosViewController"
+                  moduleName = "PruebaYoutubeAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ernesto/Code/PruebaYoutubeAPI/PruebaYoutubeAPI/VideosViewController.swift"
+                  timestampString = "453067162.060041"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
